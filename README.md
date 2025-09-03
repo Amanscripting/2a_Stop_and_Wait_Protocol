@@ -40,7 +40,11 @@ while True:
 ```
 
  #OUTPUT
+
+ 
 <img width="721" height="214" alt="Screenshot 2025-09-03 111841" src="https://github.com/user-attachments/assets/fe753aa7-bb5c-4639-9827-08b1f95dad67" />
+
+
 <img width="937" height="158" alt="Screenshot 2025-09-03 112218" src="https://github.com/user-attachments/assets/6996130f-7fbb-49fe-9d44-933c326448a3" />
 
 
